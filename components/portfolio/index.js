@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./portfolio.module.css";
-import img1 from "../../public/portfolio1.jpg";
+import img1 from "./../../public/portfolio1.jpg";
 import Image from "next/image";
 import { details } from "./files";
 const index = () => {
