@@ -6,7 +6,7 @@ import todoApi from "./../../public/todo-api.png";
 import meal from "./../../public/meal-generatr.png";
 import joke from "./../../public/joke.png";
 
-export const details = [
+const details = [
   {
     id: 1,
     text: "Ecommerce Website Made With Redux",
@@ -63,3 +63,5 @@ export const details = [
     img: joke,
   },
 ];
+
+export default details;
