@@ -1,10 +1,10 @@
-import ecmmorce from "./../../public/ecommerce-redux.png";
-import expense from "./../../public/expense.png";
-import github from "./../../public/github fetch data.png";
-import netflix from "./../../public/netflix.png";
-import todoApi from "./../../public/todo-api.png";
-import meal from "./../../public/meal-generatr.png";
-import joke from "./../../public/joke.png";
+import ecmmorce from "./../../public/ecommerce-redux.PNG";
+import expense from "./../../public/expense.PNG";
+import github from "./../../public/github fetch data.PNG";
+import netflix from "./../../public/netflix.PNG";
+import todoApi from "./../../public/todo-api.PNG";
+import meal from "./../../public/meal-generatr.PNG";
+import joke from "./../../public/joke.PNG";
 
 const details = [
   {
